@@ -1,0 +1,23 @@
+---
+title: "Milestone One"
+author: "Samuel Lowry"
+date: "2/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I am currently planning on replicating <i> Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014 </i> by Devin Caughey and Christopher Warshaw in the American Political Science Review.
+
+Here is a link to the <a href = "https://search-proquest-com.ezp-prod1.hul.harvard.edu/docview/2075430975?accountid=11311&rfr_id=info%3Axri%2Fsid%3Aprimo"> article. </a> 
+
+The article asks the driving question of, "what drives policy change?" It discusses what factors actually lead to policy change by analyzing responsiveness which, "simply captures the covariation between citizens’ preferences and governmental outputs."
+
+I am excited to replicate this article because it will be quite informative to see what actually leads to policy change. In addition, I look forward to highlighting maybe underemphasized factors within the published article. 
+
+
+
+
+
